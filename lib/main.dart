@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../Jawla-App/lib/siginup.dart';
+import 'sigingup.dart';
 
 void main() {
   runApp(const MainApp());
@@ -11,7 +11,6 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  MaterialApp(
-      title: 'Product Catalog',
       home: CustomPage(),
     );
   }

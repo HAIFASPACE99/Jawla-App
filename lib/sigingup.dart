@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import '../Jawla-App/lib/Singup.dart';
+import 'Singiup.dart';
+
 
 class CustomPage extends StatelessWidget {
   Widget build(BuildContext context) {
